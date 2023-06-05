@@ -1,4 +1,4 @@
-# Modelling a Robot and controlling it in Gazebo and ROS
+# Design and Simulation of a Mobile Robot
 The aim of this project is understand how to do the following
 1. Design a robot car using Solidworks.
 2. Convert it to a URDF (Universal Robot Description Format).
